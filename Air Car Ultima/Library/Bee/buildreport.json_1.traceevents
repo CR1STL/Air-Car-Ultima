@@ -1,0 +1,691 @@
+{ "pid": 0, "tid": -1, "ph": "M", "name": "process_name", "args": { "name": "BeeDriver" } },
+{ "pid": 0, "tid": -1, "ph": "M", "name": "process_sort_index", "args": { "sort_index": "-2" } },
+{ "pid": 0, "tid": 1, "ph": "M", "name": "thread_name", "args": { "name": "" } },
+{ "pid": 0, "tid": 1, "ts": 1654014817771907, "dur": 922337203685477580, "ph": "X", "name": "Build ScriptAssemblies", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1654014817773282, "dur": 44553, "ph": "X", "name": "WriteBuildProgramData", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1654014817818000, "dur": 170982, "ph": "X", "name": "Run Backend", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1654014817989049, "dur": 607359, "ph": "X", "name": "BuildProgram", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1654014818596411, "dur": 6419537, "ph": "X", "name": "Run Backend", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1654014825015972, "dur": 9829, "ph": "X", "name": "Finish", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1654014848017350, "dur": 922337203685477580, "ph": "X", "name": "Build Player", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1654014848017602, "dur": 2195, "ph": "X", "name": "WriteBuildProgramData", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1654014848019800, "dur": 65578, "ph": "X", "name": "Run Backend", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1654014848085381, "dur": 699794, "ph": "X", "name": "BuildProgram", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1654014848785176, "dur": 1438741, "ph": "X", "name": "Run Backend", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1654014850223920, "dur": 10736, "ph": "X", "name": "Finish", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1654015772328443, "dur": 922337203685477580, "ph": "X", "name": "Build ScriptAssemblies", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1654015772328466, "dur": 31786, "ph": "X", "name": "WriteBuildProgramData", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1654015772360263, "dur": 384304, "ph": "X", "name": "Run Backend", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1654015772744569, "dur": 10169, "ph": "X", "name": "Finish", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1654015794936334, "dur": 922337203685477580, "ph": "X", "name": "Build Player", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1654015794936368, "dur": 3152, "ph": "X", "name": "WriteBuildProgramData", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1654015794939523, "dur": 78340, "ph": "X", "name": "Run Backend", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1654015795017865, "dur": 367638, "ph": "X", "name": "BuildProgram", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1654015795385507, "dur": 1165352, "ph": "X", "name": "Run Backend", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1654015796550861, "dur": 10155, "ph": "X", "name": "Finish", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1654015918905693, "dur": 922337203685477580, "ph": "X", "name": "Build ScriptAssemblies", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1654015918905716, "dur": 31246, "ph": "X", "name": "WriteBuildProgramData", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1654015918936964, "dur": 307533, "ph": "X", "name": "Run Backend", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1654015919244502, "dur": 10569, "ph": "X", "name": "Finish", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1654015941369920, "dur": 922337203685477580, "ph": "X", "name": "Build Player", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1654015941369931, "dur": 14940, "ph": "X", "name": "WriteBuildProgramData", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1654015941384890, "dur": 77753, "ph": "X", "name": "Run Backend", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1654015941462644, "dur": 366183, "ph": "X", "name": "BuildProgram", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1654015941828830, "dur": 1017422, "ph": "X", "name": "Run Backend", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1654015942846254, "dur": 13512, "ph": "X", "name": "Finish", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1654017247473028, "dur": 922337203685477580, "ph": "X", "name": "Build ScriptAssemblies", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1654017247473066, "dur": 31390, "ph": "X", "name": "WriteBuildProgramData", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1654017247504459, "dur": 476357, "ph": "X", "name": "Run Backend", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1654017247980821, "dur": 10437, "ph": "X", "name": "Finish", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1654017273629513, "dur": 922337203685477580, "ph": "X", "name": "Build Player", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1654017273629523, "dur": 9073, "ph": "X", "name": "WriteBuildProgramData", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1654017273638599, "dur": 93179, "ph": "X", "name": "Run Backend", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1654017273731781, "dur": 408872, "ph": "X", "name": "BuildProgram", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1654017274140654, "dur": 1919489, "ph": "X", "name": "Run Backend", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1654017276060146, "dur": 7491, "ph": "X", "name": "Finish", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1654018153471555, "dur": 922337203685477580, "ph": "X", "name": "Build ScriptAssemblies", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1654018153471590, "dur": 30863, "ph": "X", "name": "WriteBuildProgramData", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1654018153502456, "dur": 354056, "ph": "X", "name": "Run Backend", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1654018153856514, "dur": 10313, "ph": "X", "name": "Finish", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1654018177013072, "dur": 922337203685477580, "ph": "X", "name": "Build Player", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1654018177013093, "dur": 16079, "ph": "X", "name": "WriteBuildProgramData", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1654018177029183, "dur": 77967, "ph": "X", "name": "Run Backend", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1654018177107151, "dur": 360709, "ph": "X", "name": "BuildProgram", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1654018177467863, "dur": 969494, "ph": "X", "name": "Run Backend", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1654018178437359, "dur": 12451, "ph": "X", "name": "Finish", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1654018178450762, "dur": 156, "ph": "X", "name": "", "args": {} },
+{ "pid": 35942, "tid": -1, "ph": "M", "name": "process_name", "args": { "name": "netcorerun.dll" } },
+{ "pid": 35942, "tid": -1, "ph": "M", "name": "process_sort_index", "args": { "sort_index": "-1" } },
+{ "pid": 35942, "tid": 1, "ph": "M", "name": "thread_name", "args": { "name": "" } },
+{ "pid": 35942, "tid": 1, "ts": 1654018177276046, "dur": 160240, "ph": "X", "name": "BuildProgram", "args": {} },
+{ "pid": 35942, "tid": 1, "ts": 1654018177277259, "dur": 62669, "ph": "X", "name": "BuildProgramContextConstructor", "args": {} },
+{ "pid": 35942, "tid": 1, "ts": 1654018177409242, "dur": 7824, "ph": "X", "name": "OutputData.Write", "args": {} },
+{ "pid": 35942, "tid": 1, "ts": 1654018177417071, "dur": 19202, "ph": "X", "name": "Backend.Write", "args": {} },
+{ "pid": 35942, "tid": 1, "ts": 1654018177418099, "dur": 17236, "ph": "X", "name": "JsonToString", "args": {} },
+{ "pid": 35942, "tid": 1, "ts": 1654018177447679, "dur": 2552, "ph": "X", "name": "", "args": {} },
+{ "pid": 35942, "tid": 1, "ts": 1654018177446078, "dur": 4239, "ph": "X", "name": "Write chrome-trace events", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1654018178451031, "dur": 342, "ph": "X", "name": "buildprogram0.traceevents", "args": {} },
+{ "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
+,{ "pid":12345, "tid":0, "ts":1654018177570370, "dur":1905, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1654018177572282, "dur":248, "ph":"X", "name": "Tundra",  "args": { "detail":"RemoveStaleOutputs" }}
+,{ "pid":12345, "tid":0, "ts":1654018177572598, "dur":57, "ph":"X", "name": "Tundra",  "args": { "detail":"PrepareNodes" }}
+,{ "pid":12345, "tid":0, "ts":1654018177572657, "dur":488, "ph":"X", "name": "Tundra",  "args": { "detail":"BuildQueueInit" }}
+,{ "pid":12345, "tid":0, "ts":1654018177573193, "dur":879, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1654018177574072, "dur":2, "ph":"X", "name": "SortWorkingStack",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1654018178402771, "dur":216, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1654018178402987, "dur":23, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1654018178403010, "dur":4, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1654018178403014, "dur":9, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1654018178403023, "dur":3, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1654018178403026, "dur":7, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1654018178403033, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1654018178403035, "dur":7, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1654018178403042, "dur":3, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1654018178403045, "dur":7, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1654018178403052, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1654018178403054, "dur":7, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1654018178403061, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1654018178403063, "dur":9, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1654018178403072, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1654018178403074, "dur":7, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1654018178403081, "dur":0, "ph":"X", "name": "SharedResourceDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1654018178403098, "dur":2, "ph":"X", "name": "BuildQueueDestroyTail",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1654018178403124, "dur":6146, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":12345, "tid":1, "ts":1654018177573781, "dur":300, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1654018177574083, "dur":5516, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1654018177579621, "dur":1, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"WriteText Library/Bee/artifacts/WinPlayerBuildProgram/Data/app.info" }}
+,{ "pid":12345, "tid":1, "ts":1654018177579638, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1654018177580777, "dur":507, "ph":"X", "name": "WriteText",  "args": { "detail":"Library/Bee/artifacts/WinPlayerBuildProgram/Data/app.info" }}
+,{ "pid":12345, "tid":1, "ts":1654018177581288, "dur":86, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ /volga it/1.0/Air Car Ultima_Data/app.info" }}
+,{ "pid":12345, "tid":1, "ts":1654018177581377, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1654018177581988, "dur":15578, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ /volga it/1.0/Air Car Ultima_Data/app.info" }}
+,{ "pid":12345, "tid":1, "ts":1654018177597569, "dur":94, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ /volga it/1.0/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":1, "ts":1654018177597666, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1654018177597693, "dur":1564, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ /volga it/1.0/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":1, "ts":1654018177599334, "dur":87, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ /volga it/1.0/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":1, "ts":1654018177599453, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1654018177599527, "dur":1424, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ /volga it/1.0/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":1, "ts":1654018177601019, "dur":103, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ /volga it/1.0/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":1, "ts":1654018177601127, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1654018177601134, "dur":122448, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ /volga it/1.0/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":1, "ts":1654018177723641, "dur":62, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ /volga it/1.0/Air Car Ultima_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1654018177723705, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1654018177723711, "dur":43153, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ /volga it/1.0/Air Car Ultima_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1654018177766949, "dur":62, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ /volga it/1.0/Air Car Ultima_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1654018177767014, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1654018177767023, "dur":2781, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ /volga it/1.0/Air Car Ultima_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1654018177769885, "dur":81, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ /volga it/1.0/Air Car Ultima_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1654018177769970, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1654018177770004, "dur":146397, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ /volga it/1.0/Air Car Ultima_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1654018177917511, "dur":85, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ /volga it/1.0/Air Car Ultima_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1654018177917601, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1654018177917611, "dur":57103, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ /volga it/1.0/Air Car Ultima_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1654018177974803, "dur":964, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ /volga it/1.0/Air Car Ultima_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1654018177975774, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1654018177975786, "dur":62936, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ /volga it/1.0/Air Car Ultima_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1654018178038814, "dur":74, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ /volga it/1.0/Air Car Ultima_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1654018178038892, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1654018178038901, "dur":8629, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ /volga it/1.0/Air Car Ultima_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1654018178047636, "dur":82, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ /volga it/1.0/Air Car Ultima_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1654018178047721, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1654018178047731, "dur":1010, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ /volga it/1.0/Air Car Ultima_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1654018178048832, "dur":68, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ /volga it/1.0/Air Car Ultima_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1654018178048904, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1654018178048914, "dur":116730, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ /volga it/1.0/Air Car Ultima_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1654018178165714, "dur":76, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ /volga it/1.0/Air Car Ultima_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1654018178165793, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1654018178165800, "dur":1492, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ /volga it/1.0/Air Car Ultima_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1654018178167373, "dur":297, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ /volga it/1.0/Air Car Ultima_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":1, "ts":1654018178167673, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1654018178167682, "dur":70173, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ /volga it/1.0/Air Car Ultima_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":1, "ts":1654018178237987, "dur":182, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ /volga it/1.0/Air Car Ultima_Data/Managed/Unity.Services.Core.Scheduler.dll" }}
+,{ "pid":12345, "tid":1, "ts":1654018178238207, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1654018178238232, "dur":1471, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ /volga it/1.0/Air Car Ultima_Data/Managed/Unity.Services.Core.Scheduler.dll" }}
+,{ "pid":12345, "tid":1, "ts":1654018178239778, "dur":170, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ /volga it/1.0/Air Car Ultima_Data/Managed/Unity.Services.Core.Environments.Internal.dll" }}
+,{ "pid":12345, "tid":1, "ts":1654018178239952, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1654018178239961, "dur":1419, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ /volga it/1.0/Air Car Ultima_Data/Managed/Unity.Services.Core.Environments.Internal.dll" }}
+,{ "pid":12345, "tid":1, "ts":1654018178241802, "dur":224, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ /volga it/1.0/Air Car Ultima_Data/Managed/Unity.Services.Core.Analytics.dll" }}
+,{ "pid":12345, "tid":1, "ts":1654018178242031, "dur":42, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1654018178242085, "dur":2747, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ /volga it/1.0/Air Car Ultima_Data/Managed/Unity.Services.Core.Analytics.dll" }}
+,{ "pid":12345, "tid":1, "ts":1654018178244918, "dur":3349, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ /volga it/1.0/Air Car Ultima_Data/Managed/Unity.Mathematics.dll" }}
+,{ "pid":12345, "tid":1, "ts":1654018178248270, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1654018178248278, "dur":1767, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ /volga it/1.0/Air Car Ultima_Data/Managed/Unity.Mathematics.dll" }}
+,{ "pid":12345, "tid":1, "ts":1654018178250105, "dur":60, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ /volga it/1.0/Air Car Ultima_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":1, "ts":1654018178250171, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1654018178250179, "dur":7211, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ /volga it/1.0/Air Car Ultima_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":1, "ts":1654018178257470, "dur":55, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ /volga it/1.0/Air Car Ultima_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":1, "ts":1654018178257528, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1654018178257536, "dur":5956, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ /volga it/1.0/Air Car Ultima_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":1, "ts":1654018178263612, "dur":62, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ /volga it/1.0/Air Car Ultima_Data/Managed/System.Runtime.dll" }}
+,{ "pid":12345, "tid":1, "ts":1654018178263678, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1654018178263688, "dur":830, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ /volga it/1.0/Air Car Ultima_Data/Managed/System.Runtime.dll" }}
+,{ "pid":12345, "tid":1, "ts":1654018178264584, "dur":58, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ /volga it/1.0/Air Car Ultima_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":1, "ts":1654018178264645, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1654018178264653, "dur":1587, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ /volga it/1.0/Air Car Ultima_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":1, "ts":1654018178266308, "dur":60, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ /volga it/1.0/Air Car Ultima_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":1, "ts":1654018178266371, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1654018178266378, "dur":5346, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ /volga it/1.0/Air Car Ultima_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":1, "ts":1654018178271810, "dur":68, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ /volga it/1.0/Air Car Ultima_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":1, "ts":1654018178271881, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1654018178271890, "dur":1641, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ /volga it/1.0/Air Car Ultima_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":1, "ts":1654018178273611, "dur":84, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ /volga it/1.0/Air Car Ultima_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":1, "ts":1654018178273699, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1654018178273708, "dur":5617, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ /volga it/1.0/Air Car Ultima_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":1, "ts":1654018178279431, "dur":763, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ /volga it/1.0/Air Car Ultima_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":1, "ts":1654018178280199, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1654018178280209, "dur":3445, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ /volga it/1.0/Air Car Ultima_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":1, "ts":1654018178283727, "dur":63, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ /volga it/1.0/Air Car Ultima_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":1, "ts":1654018178283793, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1654018178283800, "dur":5514, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ /volga it/1.0/Air Car Ultima_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":1, "ts":1654018178289394, "dur":17271, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ /volga it/1.0/Air Car Ultima_Data/Plugins/x86_64/lib_burst_generated.dll" }}
+,{ "pid":12345, "tid":1, "ts":1654018178306671, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1654018178336538, "dur":1483, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ /volga it/1.0/Air Car Ultima_Data/Plugins/x86_64/lib_burst_generated.dll" }}
+,{ "pid":12345, "tid":1, "ts":1654018178338102, "dur":77, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ /volga it/1.0/Air Car Ultima_Data/sharedassets2.assets" }}
+,{ "pid":12345, "tid":1, "ts":1654018178338183, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1654018178338193, "dur":13561, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ /volga it/1.0/Air Car Ultima_Data/sharedassets2.assets" }}
+,{ "pid":12345, "tid":1, "ts":1654018178351834, "dur":1446, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ /volga it/1.0/Air Car Ultima_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":1, "ts":1654018178353287, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1654018178353301, "dur":1732, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ /volga it/1.0/Air Car Ultima_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":1, "ts":1654018178355150, "dur":82, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ /volga it/1.0/Air Car Ultima_Data/level8" }}
+,{ "pid":12345, "tid":1, "ts":1654018178355236, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1654018178355246, "dur":1468, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ /volga it/1.0/Air Car Ultima_Data/level8" }}
+,{ "pid":12345, "tid":1, "ts":1654018178356801, "dur":69, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ /volga it/1.0/Air Car Ultima_Data/level6" }}
+,{ "pid":12345, "tid":1, "ts":1654018178356875, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1654018178356884, "dur":5553, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ /volga it/1.0/Air Car Ultima_Data/level6" }}
+,{ "pid":12345, "tid":1, "ts":1654018178362513, "dur":66, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ /volga it/1.0/Air Car Ultima_Data/level3.resS" }}
+,{ "pid":12345, "tid":1, "ts":1654018178362581, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1654018178362587, "dur":2384, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ /volga it/1.0/Air Car Ultima_Data/level3.resS" }}
+,{ "pid":12345, "tid":1, "ts":1654018178365063, "dur":62, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ /volga it/1.0/Air Car Ultima_Data/level2" }}
+,{ "pid":12345, "tid":1, "ts":1654018178365128, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1654018178365138, "dur":2888, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ /volga it/1.0/Air Car Ultima_Data/level2" }}
+,{ "pid":12345, "tid":1, "ts":1654018178368129, "dur":81, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ /volga it/1.0/Air Car Ultima_Data/globalgamemanagers.assets.resS" }}
+,{ "pid":12345, "tid":1, "ts":1654018178368213, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1654018178368222, "dur":6584, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ /volga it/1.0/Air Car Ultima_Data/globalgamemanagers.assets.resS" }}
+,{ "pid":12345, "tid":1, "ts":1654018178374910, "dur":27871, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1654018177573842, "dur":245, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1654018177574087, "dur":5524, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1654018177579622, "dur":139, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ /volga it/1.0/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":2, "ts":1654018177579767, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1654018177582798, "dur":15174, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ /volga it/1.0/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":2, "ts":1654018177598046, "dur":155, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ /volga it/1.0/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":2, "ts":1654018177598205, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1654018177598336, "dur":3854, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ /volga it/1.0/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":2, "ts":1654018177602268, "dur":94354, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ /volga it/1.0/Air Car Ultima_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":2, "ts":1654018177696629, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1654018177697218, "dur":44001, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ /volga it/1.0/Air Car Ultima_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":2, "ts":1654018177741286, "dur":55, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ /volga it/1.0/Air Car Ultima_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1654018177741344, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1654018177741351, "dur":137851, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ /volga it/1.0/Air Car Ultima_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1654018177879283, "dur":64, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ /volga it/1.0/Air Car Ultima_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1654018177879350, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1654018177879357, "dur":59739, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ /volga it/1.0/Air Car Ultima_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1654018177939163, "dur":65, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ /volga it/1.0/Air Car Ultima_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1654018177939231, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1654018177939240, "dur":6245, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ /volga it/1.0/Air Car Ultima_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1654018177945546, "dur":69, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ /volga it/1.0/Air Car Ultima_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1654018177945653, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1654018177945663, "dur":893, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ /volga it/1.0/Air Car Ultima_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1654018177946629, "dur":65, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ /volga it/1.0/Air Car Ultima_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1654018177946698, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1654018177946705, "dur":63546, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ /volga it/1.0/Air Car Ultima_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1654018178010390, "dur":94, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ /volga it/1.0/Air Car Ultima_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1654018178010488, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1654018178010499, "dur":26060, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ /volga it/1.0/Air Car Ultima_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1654018178036658, "dur":195, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ /volga it/1.0/Air Car Ultima_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1654018178036860, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1654018178036872, "dur":31576, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ /volga it/1.0/Air Car Ultima_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1654018178068530, "dur":63, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ /volga it/1.0/Air Car Ultima_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":2, "ts":1654018178068597, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1654018178068605, "dur":96893, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ /volga it/1.0/Air Car Ultima_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":2, "ts":1654018178165605, "dur":72, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ /volga it/1.0/Air Car Ultima_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1654018178165680, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1654018178165711, "dur":171020, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ /volga it/1.0/Air Car Ultima_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1654018178336820, "dur":74, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ /volga it/1.0/Air Car Ultima_Data/sharedassets3.assets" }}
+,{ "pid":12345, "tid":2, "ts":1654018178336898, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1654018178336945, "dur":25218, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ /volga it/1.0/Air Car Ultima_Data/sharedassets3.assets" }}
+,{ "pid":12345, "tid":2, "ts":1654018178362262, "dur":72, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ /volga it/1.0/Air Car Ultima_Data/level4.resS" }}
+,{ "pid":12345, "tid":2, "ts":1654018178362338, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1654018178362347, "dur":3277, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ /volga it/1.0/Air Car Ultima_Data/level4.resS" }}
+,{ "pid":12345, "tid":2, "ts":1654018178365710, "dur":54, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ /volga it/1.0/Air Car Ultima_Data/level1" }}
+,{ "pid":12345, "tid":2, "ts":1654018178365766, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1654018178365771, "dur":5367, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ /volga it/1.0/Air Car Ultima_Data/level1" }}
+,{ "pid":12345, "tid":2, "ts":1654018178371208, "dur":31593, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1654018177573966, "dur":129, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1654018177574095, "dur":5603, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1654018177579699, "dur":96, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ /volga it/1.0/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":3, "ts":1654018177579801, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1654018177594746, "dur":3183, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ /volga it/1.0/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":3, "ts":1654018177598030, "dur":77, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ /volga it/1.0/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":3, "ts":1654018177598110, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1654018177598330, "dur":2416, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ /volga it/1.0/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":3, "ts":1654018177600839, "dur":73, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ /volga it/1.0/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":3, "ts":1654018177600915, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1654018177601357, "dur":171592, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ /volga it/1.0/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":3, "ts":1654018177773042, "dur":82, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ /volga it/1.0/Air Car Ultima_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1654018177773128, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1654018177773139, "dur":164939, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ /volga it/1.0/Air Car Ultima_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1654018177938160, "dur":69, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ /volga it/1.0/Air Car Ultima_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1654018177938232, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1654018177938241, "dur":931, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ /volga it/1.0/Air Car Ultima_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1654018177939240, "dur":56, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ /volga it/1.0/Air Car Ultima_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1654018177939299, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1654018177939306, "dur":1006, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ /volga it/1.0/Air Car Ultima_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1654018177940395, "dur":83, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ /volga it/1.0/Air Car Ultima_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1654018177940482, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1654018177940491, "dur":1135, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ /volga it/1.0/Air Car Ultima_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1654018177941705, "dur":70, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ /volga it/1.0/Air Car Ultima_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1654018177941779, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1654018177941788, "dur":64718, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ /volga it/1.0/Air Car Ultima_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1654018178006569, "dur":67, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ /volga it/1.0/Air Car Ultima_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1654018178007366, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1654018178007375, "dur":79260, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ /volga it/1.0/Air Car Ultima_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1654018178086725, "dur":81, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ /volga it/1.0/Air Car Ultima_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1654018178086810, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1654018178086819, "dur":79482, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ /volga it/1.0/Air Car Ultima_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1654018178166387, "dur":1969, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ /volga it/1.0/Air Car Ultima_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":3, "ts":1654018178168361, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1654018178168369, "dur":74450, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ /volga it/1.0/Air Car Ultima_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":3, "ts":1654018178242928, "dur":219, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ /volga it/1.0/Air Car Ultima_Data/Managed/Unity.RenderPipelines.Universal.Shaders.dll" }}
+,{ "pid":12345, "tid":3, "ts":1654018178243151, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1654018178243169, "dur":2958, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ /volga it/1.0/Air Car Ultima_Data/Managed/Unity.RenderPipelines.Universal.Shaders.dll" }}
+,{ "pid":12345, "tid":3, "ts":1654018178246206, "dur":66, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ /volga it/1.0/Air Car Ultima_Data/Managed/Unity.Burst.Cecil.Rocks.dll" }}
+,{ "pid":12345, "tid":3, "ts":1654018178246276, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1654018178246288, "dur":90430, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ /volga it/1.0/Air Car Ultima_Data/Managed/Unity.Burst.Cecil.Rocks.dll" }}
+,{ "pid":12345, "tid":3, "ts":1654018178336807, "dur":86, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ /volga it/1.0/Air Car Ultima_Data/sharedassets4.assets" }}
+,{ "pid":12345, "tid":3, "ts":1654018178336933, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1654018178336944, "dur":1245, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ /volga it/1.0/Air Car Ultima_Data/sharedassets4.assets" }}
+,{ "pid":12345, "tid":3, "ts":1654018178338259, "dur":83, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ /volga it/1.0/Air Car Ultima_Data/sharedassets0.resource" }}
+,{ "pid":12345, "tid":3, "ts":1654018178338348, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1654018178338357, "dur":13370, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ /volga it/1.0/Air Car Ultima_Data/sharedassets0.resource" }}
+,{ "pid":12345, "tid":3, "ts":1654018178351812, "dur":219, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ /volga it/1.0/Air Car Ultima_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":3, "ts":1654018178352038, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1654018178352051, "dur":1136, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ /volga it/1.0/Air Car Ultima_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":3, "ts":1654018178353307, "dur":99, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ /volga it/1.0/Air Car Ultima_Data/resources.assets" }}
+,{ "pid":12345, "tid":3, "ts":1654018178353409, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1654018178353417, "dur":9214, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ /volga it/1.0/Air Car Ultima_Data/resources.assets" }}
+,{ "pid":12345, "tid":3, "ts":1654018178362726, "dur":76, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ /volga it/1.0/Air Car Ultima_Data/level3" }}
+,{ "pid":12345, "tid":3, "ts":1654018178362813, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1654018178362828, "dur":3177, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ /volga it/1.0/Air Car Ultima_Data/level3" }}
+,{ "pid":12345, "tid":3, "ts":1654018178366078, "dur":61, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ /volga it/1.0/Air Car Ultima_Data/level0.resS" }}
+,{ "pid":12345, "tid":3, "ts":1654018178366144, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1654018178366154, "dur":2970, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ /volga it/1.0/Air Car Ultima_Data/level0.resS" }}
+,{ "pid":12345, "tid":3, "ts":1654018178369238, "dur":104, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ /volga it/1.0/Air Car Ultima_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":3, "ts":1654018178369349, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1654018178369361, "dur":1361, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ /volga it/1.0/Air Car Ultima_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":3, "ts":1654018178370802, "dur":31965, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1654018177574008, "dur":100, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1654018177574108, "dur":5582, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1654018177579693, "dur":98, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ /volga it/1.0/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":4, "ts":1654018177579793, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1654018177593705, "dur":3914, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ /volga it/1.0/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":4, "ts":1654018177597693, "dur":68, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ /volga it/1.0/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":4, "ts":1654018177597767, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1654018177597778, "dur":1787, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ /volga it/1.0/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":4, "ts":1654018177599770, "dur":75, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ /volga it/1.0/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":4, "ts":1654018177599848, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1654018177599855, "dur":96707, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ /volga it/1.0/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":4, "ts":1654018177696654, "dur":79, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ /volga it/1.0/Air Car Ultima_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1654018177696739, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1654018177697488, "dur":1190, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ /volga it/1.0/Air Car Ultima_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1654018177698753, "dur":67, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ /volga it/1.0/Air Car Ultima_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1654018177698823, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1654018177698854, "dur":194873, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ /volga it/1.0/Air Car Ultima_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1654018177893815, "dur":70, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ /volga it/1.0/Air Car Ultima_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1654018177893888, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1654018177893898, "dur":25050, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ /volga it/1.0/Air Car Ultima_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1654018177919026, "dur":59, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ /volga it/1.0/Air Car Ultima_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1654018177919088, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1654018177919097, "dur":794, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ /volga it/1.0/Air Car Ultima_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1654018177919989, "dur":100, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ /volga it/1.0/Air Car Ultima_Data/Managed/UnityEngine.UIElementsNativeModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1654018177920093, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1654018177920102, "dur":1015, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ /volga it/1.0/Air Car Ultima_Data/Managed/UnityEngine.UIElementsNativeModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1654018177921190, "dur":51, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ /volga it/1.0/Air Car Ultima_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1654018177921244, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1654018177921251, "dur":2295, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ /volga it/1.0/Air Car Ultima_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1654018177923624, "dur":480, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ /volga it/1.0/Air Car Ultima_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":4, "ts":1654018177924109, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1654018177924118, "dur":1091, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ /volga it/1.0/Air Car Ultima_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":4, "ts":1654018177925317, "dur":64, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ /volga it/1.0/Air Car Ultima_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1654018177925384, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1654018177925393, "dur":53461, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ /volga it/1.0/Air Car Ultima_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1654018177978977, "dur":146, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ /volga it/1.0/Air Car Ultima_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1654018177979127, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1654018177979138, "dur":1302, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ /volga it/1.0/Air Car Ultima_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1654018177980550, "dur":70, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ /volga it/1.0/Air Car Ultima_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1654018177980625, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1654018177980637, "dur":25653, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ /volga it/1.0/Air Car Ultima_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1654018178006382, "dur":83, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ /volga it/1.0/Air Car Ultima_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1654018178006471, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1654018178006484, "dur":33627, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ /volga it/1.0/Air Car Ultima_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1654018178040194, "dur":81, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ /volga it/1.0/Air Car Ultima_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1654018178040279, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1654018178040287, "dur":3274, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ /volga it/1.0/Air Car Ultima_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1654018178043646, "dur":66, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ /volga it/1.0/Air Car Ultima_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1654018178043716, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1654018178043724, "dur":33457, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ /volga it/1.0/Air Car Ultima_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1654018178077279, "dur":71, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ /volga it/1.0/Air Car Ultima_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1654018178077353, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1654018178077363, "dur":2983, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ /volga it/1.0/Air Car Ultima_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1654018178080447, "dur":84, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ /volga it/1.0/Air Car Ultima_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1654018178080536, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1654018178080546, "dur":85466, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ /volga it/1.0/Air Car Ultima_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1654018178166114, "dur":2444, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ /volga it/1.0/Air Car Ultima_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":4, "ts":1654018178168562, "dur":32, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1654018178168601, "dur":69537, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ /volga it/1.0/Air Car Ultima_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":4, "ts":1654018178238212, "dur":231, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ /volga it/1.0/Air Car Ultima_Data/Managed/Unity.Services.Core.Internal.dll" }}
+,{ "pid":12345, "tid":4, "ts":1654018178238449, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1654018178238459, "dur":1552, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ /volga it/1.0/Air Car Ultima_Data/Managed/Unity.Services.Core.Internal.dll" }}
+,{ "pid":12345, "tid":4, "ts":1654018178240088, "dur":196, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ /volga it/1.0/Air Car Ultima_Data/Managed/Unity.Services.Core.dll" }}
+,{ "pid":12345, "tid":4, "ts":1654018178240289, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1654018178240296, "dur":2802, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ /volga it/1.0/Air Car Ultima_Data/Managed/Unity.Services.Core.dll" }}
+,{ "pid":12345, "tid":4, "ts":1654018178243171, "dur":935, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ /volga it/1.0/Air Car Ultima_Data/Managed/Unity.RenderPipelines.Universal.Runtime.dll" }}
+,{ "pid":12345, "tid":4, "ts":1654018178244110, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1654018178244117, "dur":2137, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ /volga it/1.0/Air Car Ultima_Data/Managed/Unity.RenderPipelines.Universal.Runtime.dll" }}
+,{ "pid":12345, "tid":4, "ts":1654018178246320, "dur":61, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ /volga it/1.0/Air Car Ultima_Data/Managed/Unity.Burst.Cecil.Pdb.dll" }}
+,{ "pid":12345, "tid":4, "ts":1654018178246384, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1654018178246391, "dur":52406, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ /volga it/1.0/Air Car Ultima_Data/Managed/Unity.Burst.Cecil.Pdb.dll" }}
+,{ "pid":12345, "tid":4, "ts":1654018178298896, "dur":72, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ /volga it/1.0/Air Car Ultima_Data/sharedassets5.assets.resS" }}
+,{ "pid":12345, "tid":4, "ts":1654018178298972, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1654018178298981, "dur":71913, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ /volga it/1.0/Air Car Ultima_Data/sharedassets5.assets.resS" }}
+,{ "pid":12345, "tid":4, "ts":1654018178370968, "dur":31849, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1654018177574114, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1654018177574114, "dur":5523, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1654018177579640, "dur":113, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ /volga it/1.0/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":5, "ts":1654018177579758, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1654018177582777, "dur":15165, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ /volga it/1.0/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":5, "ts":1654018177598025, "dur":87, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ /volga it/1.0/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":5, "ts":1654018177598116, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1654018177598945, "dur":1703, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ /volga it/1.0/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":5, "ts":1654018177600746, "dur":83, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ /volga it/1.0/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":5, "ts":1654018177600834, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1654018177601338, "dur":96605, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ /volga it/1.0/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":5, "ts":1654018177698016, "dur":66, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ /volga it/1.0/Air Car Ultima_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1654018177698085, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1654018177698093, "dur":1016, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ /volga it/1.0/Air Car Ultima_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1654018177699610, "dur":95, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ /volga it/1.0/Air Car Ultima_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1654018177699710, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1654018177699719, "dur":307035, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ /volga it/1.0/Air Car Ultima_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1654018178006818, "dur":59, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ /volga it/1.0/Air Car Ultima_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1654018178006880, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1654018178006887, "dur":1453, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ /volga it/1.0/Air Car Ultima_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1654018178008429, "dur":137, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ /volga it/1.0/Air Car Ultima_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1654018178008571, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1654018178008582, "dur":2105, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ /volga it/1.0/Air Car Ultima_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1654018178010779, "dur":69, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ /volga it/1.0/Air Car Ultima_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1654018178010852, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1654018178010859, "dur":2155, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ /volga it/1.0/Air Car Ultima_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1654018178013103, "dur":67, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ /volga it/1.0/Air Car Ultima_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1654018178013175, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1654018178013193, "dur":46277, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ /volga it/1.0/Air Car Ultima_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1654018178059674, "dur":113, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ /volga it/1.0/Air Car Ultima_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1654018178059792, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1654018178059802, "dur":106082, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ /volga it/1.0/Air Car Ultima_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1654018178165958, "dur":63, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ /volga it/1.0/Air Car Ultima_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1654018178166025, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1654018178166033, "dur":72020, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ /volga it/1.0/Air Car Ultima_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1654018178238117, "dur":176, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ /volga it/1.0/Air Car Ultima_Data/Managed/Unity.Services.Core.Networking.dll" }}
+,{ "pid":12345, "tid":5, "ts":1654018178238296, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1654018178238306, "dur":2925, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ /volga it/1.0/Air Car Ultima_Data/Managed/Unity.Services.Core.Networking.dll" }}
+,{ "pid":12345, "tid":5, "ts":1654018178241318, "dur":199, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ /volga it/1.0/Air Car Ultima_Data/Managed/Unity.Services.Core.Configuration.dll" }}
+,{ "pid":12345, "tid":5, "ts":1654018178241521, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1654018178241529, "dur":2474, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ /volga it/1.0/Air Car Ultima_Data/Managed/Unity.Services.Core.Configuration.dll" }}
+,{ "pid":12345, "tid":5, "ts":1654018178244077, "dur":206, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ /volga it/1.0/Air Car Ultima_Data/Managed/Unity.RenderPipeline.Universal.ShaderLibrary.dll" }}
+,{ "pid":12345, "tid":5, "ts":1654018178244289, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1654018178244299, "dur":1727, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ /volga it/1.0/Air Car Ultima_Data/Managed/Unity.RenderPipeline.Universal.ShaderLibrary.dll" }}
+,{ "pid":12345, "tid":5, "ts":1654018178246130, "dur":428, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ /volga it/1.0/Air Car Ultima_Data/Managed/Unity.Burst.Unsafe.dll" }}
+,{ "pid":12345, "tid":5, "ts":1654018178246584, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1654018178246591, "dur":1248, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ /volga it/1.0/Air Car Ultima_Data/Managed/Unity.Burst.Unsafe.dll" }}
+,{ "pid":12345, "tid":5, "ts":1654018178247925, "dur":60, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ /volga it/1.0/Air Car Ultima_Data/Managed/Unity.Burst.Cecil.dll" }}
+,{ "pid":12345, "tid":5, "ts":1654018178247988, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1654018178247997, "dur":154675, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ /volga it/1.0/Air Car Ultima_Data/Managed/Unity.Burst.Cecil.dll" }}
+,{ "pid":12345, "tid":5, "ts":1654018178402734, "dur":1, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"Player" }}
+,{ "pid":12345, "tid":5, "ts":1654018178402736, "dur":0, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1654018177574232, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1654018177574232, "dur":5396, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1654018177579632, "dur":183, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ /volga it/1.0/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":6, "ts":1654018177579817, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1654018177622921, "dur":74554, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ /volga it/1.0/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":6, "ts":1654018177697580, "dur":107, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ /volga it/1.0/Air Car Ultima_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1654018177697691, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1654018177697821, "dur":66671, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ /volga it/1.0/Air Car Ultima_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1654018177764617, "dur":97, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ /volga it/1.0/Air Car Ultima_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1654018177764720, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1654018177764733, "dur":180716, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ /volga it/1.0/Air Car Ultima_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1654018177945536, "dur":86, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ /volga it/1.0/Air Car Ultima_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1654018177945788, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1654018177945799, "dur":95509, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ /volga it/1.0/Air Car Ultima_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1654018178041437, "dur":189, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ /volga it/1.0/Air Car Ultima_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1654018178041631, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1654018178041641, "dur":25805, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ /volga it/1.0/Air Car Ultima_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1654018178067542, "dur":65, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ /volga it/1.0/Air Car Ultima_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1654018178067610, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1654018178067620, "dur":55153, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ /volga it/1.0/Air Car Ultima_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1654018178122856, "dur":71, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ /volga it/1.0/Air Car Ultima_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1654018178122930, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1654018178122940, "dur":43066, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ /volga it/1.0/Air Car Ultima_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1654018178166072, "dur":216, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ /volga it/1.0/Air Car Ultima_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":6, "ts":1654018178166292, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1654018178166299, "dur":1370, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ /volga it/1.0/Air Car Ultima_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":6, "ts":1654018178167736, "dur":184, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ /volga it/1.0/Air Car Ultima_Data/Managed/Unity.Services.Core.Threading.dll" }}
+,{ "pid":12345, "tid":6, "ts":1654018178167932, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1654018178167939, "dur":69984, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ /volga it/1.0/Air Car Ultima_Data/Managed/Unity.Services.Core.Threading.dll" }}
+,{ "pid":12345, "tid":6, "ts":1654018178237991, "dur":190, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ /volga it/1.0/Air Car Ultima_Data/Managed/Unity.Services.Core.Registration.dll" }}
+,{ "pid":12345, "tid":6, "ts":1654018178238210, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1654018178238220, "dur":1714, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ /volga it/1.0/Air Car Ultima_Data/Managed/Unity.Services.Core.Registration.dll" }}
+,{ "pid":12345, "tid":6, "ts":1654018178240002, "dur":180, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ /volga it/1.0/Air Car Ultima_Data/Managed/Unity.Services.Core.Environments.dll" }}
+,{ "pid":12345, "tid":6, "ts":1654018178240185, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1654018178240195, "dur":3199, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ /volga it/1.0/Air Car Ultima_Data/Managed/Unity.Services.Core.Environments.dll" }}
+,{ "pid":12345, "tid":6, "ts":1654018178243461, "dur":171, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ /volga it/1.0/Air Car Ultima_Data/Managed/Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll" }}
+,{ "pid":12345, "tid":6, "ts":1654018178243636, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1654018178243644, "dur":7198, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ /volga it/1.0/Air Car Ultima_Data/Managed/Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll" }}
+,{ "pid":12345, "tid":6, "ts":1654018178251001, "dur":74, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ /volga it/1.0/Air Car Ultima_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":6, "ts":1654018178251079, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1654018178251087, "dur":32304, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ /volga it/1.0/Air Car Ultima_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":6, "ts":1654018178283486, "dur":66, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ /volga it/1.0/Air Car Ultima_Data/Managed/Newtonsoft.Json.dll" }}
+,{ "pid":12345, "tid":6, "ts":1654018178283555, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1654018178283564, "dur":3365, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ /volga it/1.0/Air Car Ultima_Data/Managed/Newtonsoft.Json.dll" }}
+,{ "pid":12345, "tid":6, "ts":1654018178287020, "dur":82, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ /volga it/1.0/Air Car Ultima_Data/Managed/clipper_library.dll" }}
+,{ "pid":12345, "tid":6, "ts":1654018178287106, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1654018178287116, "dur":1286, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ /volga it/1.0/Air Car Ultima_Data/Managed/clipper_library.dll" }}
+,{ "pid":12345, "tid":6, "ts":1654018178288492, "dur":247, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ /volga it/1.0/Air Car Ultima_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":6, "ts":1654018178288743, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1654018178288752, "dur":1206, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ /volga it/1.0/Air Car Ultima_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":6, "ts":1654018178290030, "dur":185, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ /volga it/1.0/Air Car Ultima_Data/StreamingAssets/UnityServicesProjectConfiguration.json" }}
+,{ "pid":12345, "tid":6, "ts":1654018178290219, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1654018178290447, "dur":1145, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ /volga it/1.0/Air Car Ultima_Data/StreamingAssets/UnityServicesProjectConfiguration.json" }}
+,{ "pid":12345, "tid":6, "ts":1654018178291841, "dur":85, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ /volga it/1.0/Air Car Ultima_Data/sharedassets8.assets" }}
+,{ "pid":12345, "tid":6, "ts":1654018178291931, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1654018178291940, "dur":1189, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ /volga it/1.0/Air Car Ultima_Data/sharedassets8.assets" }}
+,{ "pid":12345, "tid":6, "ts":1654018178293237, "dur":73, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ /volga it/1.0/Air Car Ultima_Data/sharedassets7.assets" }}
+,{ "pid":12345, "tid":6, "ts":1654018178293314, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1654018178293322, "dur":1642, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ /volga it/1.0/Air Car Ultima_Data/sharedassets7.assets" }}
+,{ "pid":12345, "tid":6, "ts":1654018178295061, "dur":74, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ /volga it/1.0/Air Car Ultima_Data/sharedassets6.assets" }}
+,{ "pid":12345, "tid":6, "ts":1654018178295139, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1654018178295147, "dur":1439, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ /volga it/1.0/Air Car Ultima_Data/sharedassets6.assets" }}
+,{ "pid":12345, "tid":6, "ts":1654018178296677, "dur":67, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ /volga it/1.0/Air Car Ultima_Data/sharedassets5.resource" }}
+,{ "pid":12345, "tid":6, "ts":1654018178296747, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1654018178296756, "dur":39435, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ /volga it/1.0/Air Car Ultima_Data/sharedassets5.resource" }}
+,{ "pid":12345, "tid":6, "ts":1654018178336318, "dur":80, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ /volga it/1.0/Air Car Ultima_Data/sharedassets5.assets" }}
+,{ "pid":12345, "tid":6, "ts":1654018178336403, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1654018178336412, "dur":1724, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ /volga it/1.0/Air Car Ultima_Data/sharedassets5.assets" }}
+,{ "pid":12345, "tid":6, "ts":1654018178338218, "dur":71, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ /volga it/1.0/Air Car Ultima_Data/sharedassets1.assets" }}
+,{ "pid":12345, "tid":6, "ts":1654018178338295, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1654018178338305, "dur":13639, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ /volga it/1.0/Air Car Ultima_Data/sharedassets1.assets" }}
+,{ "pid":12345, "tid":6, "ts":1654018178352033, "dur":73, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ /volga it/1.0/Air Car Ultima_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":6, "ts":1654018178352112, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1654018178352124, "dur":6072, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ /volga it/1.0/Air Car Ultima_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":6, "ts":1654018178358343, "dur":327, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ /volga it/1.0/Air Car Ultima_Data/level5" }}
+,{ "pid":12345, "tid":6, "ts":1654018178358677, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1654018178358689, "dur":6744, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ /volga it/1.0/Air Car Ultima_Data/level5" }}
+,{ "pid":12345, "tid":6, "ts":1654018178365509, "dur":69, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ /volga it/1.0/Air Car Ultima_Data/level1.resS" }}
+,{ "pid":12345, "tid":6, "ts":1654018178365613, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1654018178365620, "dur":2505, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ /volga it/1.0/Air Car Ultima_Data/level1.resS" }}
+,{ "pid":12345, "tid":6, "ts":1654018178368244, "dur":67, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ /volga it/1.0/Air Car Ultima_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":6, "ts":1654018178368317, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1654018178368325, "dur":2109, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ /volga it/1.0/Air Car Ultima_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":6, "ts":1654018178370521, "dur":32247, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1654018177574410, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1654018177574410, "dur":5209, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1654018177579622, "dur":114, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ /volga it/1.0/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":7, "ts":1654018177579746, "dur":10, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1654018177582965, "dur":14590, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ /volga it/1.0/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":7, "ts":1654018177597651, "dur":86, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ /volga it/1.0/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":7, "ts":1654018177597740, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1654018177597748, "dur":1900, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ /volga it/1.0/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":7, "ts":1654018177599729, "dur":69, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ /volga it/1.0/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":7, "ts":1654018177599803, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1654018177599810, "dur":1479, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ /volga it/1.0/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":7, "ts":1654018177601367, "dur":855, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ /volga it/1.0/Air Car Ultima.exe" }}
+,{ "pid":12345, "tid":7, "ts":1654018177602226, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1654018177602232, "dur":95844, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ /volga it/1.0/Air Car Ultima.exe" }}
+,{ "pid":12345, "tid":7, "ts":1654018177698142, "dur":68, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ /volga it/1.0/Air Car Ultima_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1654018177698214, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1654018177698220, "dur":215855, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ /volga it/1.0/Air Car Ultima_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1654018177914154, "dur":68, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ /volga it/1.0/Air Car Ultima_Data/Managed/UnityEngine.UNETModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1654018177914225, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1654018177914235, "dur":125663, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ /volga it/1.0/Air Car Ultima_Data/Managed/UnityEngine.UNETModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1654018178039991, "dur":66, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ /volga it/1.0/Air Car Ultima_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1654018178040061, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1654018178040071, "dur":42352, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ /volga it/1.0/Air Car Ultima_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1654018178082526, "dur":65, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ /volga it/1.0/Air Car Ultima_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1654018178082627, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1654018178082637, "dur":82857, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ /volga it/1.0/Air Car Ultima_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1654018178165576, "dur":233, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ /volga it/1.0/Air Car Ultima_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1654018178165813, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1654018178165819, "dur":1755, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ /volga it/1.0/Air Car Ultima_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1654018178167643, "dur":657, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ /volga it/1.0/Air Car Ultima_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":7, "ts":1654018178168314, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1654018178168321, "dur":75471, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ /volga it/1.0/Air Car Ultima_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":7, "ts":1654018178243879, "dur":200, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ /volga it/1.0/Air Car Ultima_Data/Managed/Unity.RenderPipelines.Core.ShaderLibrary.dll" }}
+,{ "pid":12345, "tid":7, "ts":1654018178244106, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1654018178244114, "dur":1975, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ /volga it/1.0/Air Car Ultima_Data/Managed/Unity.RenderPipelines.Core.ShaderLibrary.dll" }}
+,{ "pid":12345, "tid":7, "ts":1654018178246154, "dur":543, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ /volga it/1.0/Air Car Ultima_Data/Managed/Unity.Burst.dll" }}
+,{ "pid":12345, "tid":7, "ts":1654018178246700, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1654018178246706, "dur":3138, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ /volga it/1.0/Air Car Ultima_Data/Managed/Unity.Burst.dll" }}
+,{ "pid":12345, "tid":7, "ts":1654018178249931, "dur":62, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ /volga it/1.0/Air Car Ultima_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":7, "ts":1654018178249999, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1654018178250008, "dur":963, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ /volga it/1.0/Air Car Ultima_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":7, "ts":1654018178251048, "dur":62, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ /volga it/1.0/Air Car Ultima_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":7, "ts":1654018178251141, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1654018178251151, "dur":6356, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ /volga it/1.0/Air Car Ultima_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":7, "ts":1654018178257575, "dur":72, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ /volga it/1.0/Air Car Ultima_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":7, "ts":1654018178257651, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1654018178257657, "dur":6552, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ /volga it/1.0/Air Car Ultima_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":7, "ts":1654018178264300, "dur":69, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ /volga it/1.0/Air Car Ultima_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":7, "ts":1654018178264372, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1654018178264380, "dur":1469, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ /volga it/1.0/Air Car Ultima_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":7, "ts":1654018178265938, "dur":65, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ /volga it/1.0/Air Car Ultima_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":7, "ts":1654018178266007, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1654018178266015, "dur":1094, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ /volga it/1.0/Air Car Ultima_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":7, "ts":1654018178267265, "dur":65, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ /volga it/1.0/Air Car Ultima_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":7, "ts":1654018178267334, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1654018178267342, "dur":4709, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ /volga it/1.0/Air Car Ultima_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":7, "ts":1654018178272121, "dur":68, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ /volga it/1.0/Air Car Ultima_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":7, "ts":1654018178272192, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1654018178272200, "dur":5533, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ /volga it/1.0/Air Car Ultima_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":7, "ts":1654018178277835, "dur":69, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ /volga it/1.0/Air Car Ultima_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":7, "ts":1654018178277908, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1654018178277920, "dur":1564, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ /volga it/1.0/Air Car Ultima_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":7, "ts":1654018178279576, "dur":66, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ /volga it/1.0/Air Car Ultima_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":7, "ts":1654018178279645, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1654018178279654, "dur":1889, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ /volga it/1.0/Air Car Ultima_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":7, "ts":1654018178281638, "dur":94, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ /volga it/1.0/Air Car Ultima_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":7, "ts":1654018178281737, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1654018178281747, "dur":1652, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ /volga it/1.0/Air Car Ultima_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":7, "ts":1654018178283490, "dur":71, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ /volga it/1.0/Air Car Ultima_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":7, "ts":1654018178283564, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1654018178283571, "dur":1757, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ /volga it/1.0/Air Car Ultima_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":7, "ts":1654018178285419, "dur":95, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ /volga it/1.0/Air Car Ultima_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":7, "ts":1654018178285518, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1654018178285530, "dur":1459, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ /volga it/1.0/Air Car Ultima_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":7, "ts":1654018178287059, "dur":544, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ /volga it/1.0/Air Car Ultima_Data/Managed/Cinemachine.dll" }}
+,{ "pid":12345, "tid":7, "ts":1654018178287607, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1654018178287615, "dur":3147, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ /volga it/1.0/Air Car Ultima_Data/Managed/Cinemachine.dll" }}
+,{ "pid":12345, "tid":7, "ts":1654018178290885, "dur":179, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ /volga it/1.0/Air Car Ultima_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":7, "ts":1654018178291069, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1654018178291305, "dur":47413, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ /volga it/1.0/Air Car Ultima_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":7, "ts":1654018178338810, "dur":84, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ /volga it/1.0/Air Car Ultima_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":7, "ts":1654018178338897, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1654018178338906, "dur":44643, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ /volga it/1.0/Air Car Ultima_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":7, "ts":1654018178383608, "dur":19166, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1654018177574540, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1654018177574540, "dur":5114, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1654018177579657, "dur":125, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ /volga it/1.0/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":8, "ts":1654018177579787, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1654018177582826, "dur":14721, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ /volga it/1.0/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":8, "ts":1654018177597642, "dur":70, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ /volga it/1.0/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":8, "ts":1654018177597718, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1654018177597729, "dur":1473, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ /volga it/1.0/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":8, "ts":1654018177599310, "dur":75, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ /volga it/1.0/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":8, "ts":1654018177599389, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1654018177599518, "dur":1423, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ /volga it/1.0/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":8, "ts":1654018177601019, "dur":79, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ /volga it/1.0/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":8, "ts":1654018177601103, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1654018177601110, "dur":204873, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ /volga it/1.0/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":8, "ts":1654018177806083, "dur":108, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ /volga it/1.0/Air Car Ultima_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1654018177806194, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1654018177806215, "dur":105239, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ /volga it/1.0/Air Car Ultima_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1654018177911814, "dur":72, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ /volga it/1.0/Air Car Ultima_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1654018177911890, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1654018177911900, "dur":80957, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ /volga it/1.0/Air Car Ultima_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1654018177992948, "dur":66, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ /volga it/1.0/Air Car Ultima_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1654018177993018, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1654018177993027, "dur":1145, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ /volga it/1.0/Air Car Ultima_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1654018177994271, "dur":64, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ /volga it/1.0/Air Car Ultima_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1654018177994339, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1654018177994349, "dur":46902, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ /volga it/1.0/Air Car Ultima_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1654018178041935, "dur":180, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ /volga it/1.0/Air Car Ultima_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1654018178042122, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1654018178042133, "dur":30889, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ /volga it/1.0/Air Car Ultima_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1654018178073144, "dur":76, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ /volga it/1.0/Air Car Ultima_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1654018178073224, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1654018178073233, "dur":1522, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ /volga it/1.0/Air Car Ultima_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1654018178074867, "dur":69, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ /volga it/1.0/Air Car Ultima_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1654018178074940, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1654018178074949, "dur":25593, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ /volga it/1.0/Air Car Ultima_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1654018178100657, "dur":68, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ /volga it/1.0/Air Car Ultima_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1654018178100729, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1654018178100740, "dur":1453, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ /volga it/1.0/Air Car Ultima_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1654018178102267, "dur":66, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ /volga it/1.0/Air Car Ultima_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1654018178102340, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1654018178102351, "dur":63702, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ /volga it/1.0/Air Car Ultima_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1654018178166120, "dur":849, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ /volga it/1.0/Air Car Ultima_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":8, "ts":1654018178166975, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1654018178166983, "dur":69727, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ /volga it/1.0/Air Car Ultima_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":8, "ts":1654018178236824, "dur":226, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ /volga it/1.0/Air Car Ultima_Data/Managed/Unity.Services.Core.Telemetry.dll" }}
+,{ "pid":12345, "tid":8, "ts":1654018178237057, "dur":6, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1654018178237074, "dur":3068, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ /volga it/1.0/Air Car Ultima_Data/Managed/Unity.Services.Core.Telemetry.dll" }}
+,{ "pid":12345, "tid":8, "ts":1654018178240219, "dur":185, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ /volga it/1.0/Air Car Ultima_Data/Managed/Unity.Services.Core.Device.dll" }}
+,{ "pid":12345, "tid":8, "ts":1654018178240409, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1654018178240419, "dur":3458, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ /volga it/1.0/Air Car Ultima_Data/Managed/Unity.Services.Core.Device.dll" }}
+,{ "pid":12345, "tid":8, "ts":1654018178243948, "dur":650, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ /volga it/1.0/Air Car Ultima_Data/Managed/Unity.RenderPipelines.Core.Runtime.dll" }}
+,{ "pid":12345, "tid":8, "ts":1654018178244602, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1654018178244609, "dur":1861, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ /volga it/1.0/Air Car Ultima_Data/Managed/Unity.RenderPipelines.Core.Runtime.dll" }}
+,{ "pid":12345, "tid":8, "ts":1654018178246535, "dur":58, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ /volga it/1.0/Air Car Ultima_Data/Managed/Unity.Burst.Cecil.Mdb.dll" }}
+,{ "pid":12345, "tid":8, "ts":1654018178246596, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1654018178246602, "dur":93899, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ /volga it/1.0/Air Car Ultima_Data/Managed/Unity.Burst.Cecil.Mdb.dll" }}
+,{ "pid":12345, "tid":8, "ts":1654018178340607, "dur":68, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ /volga it/1.0/Air Car Ultima_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":8, "ts":1654018178340680, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1654018178340688, "dur":12938, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ /volga it/1.0/Air Car Ultima_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":8, "ts":1654018178353705, "dur":71, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ /volga it/1.0/Air Car Ultima_Data/level8.resS" }}
+,{ "pid":12345, "tid":8, "ts":1654018178353779, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1654018178353787, "dur":2560, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ /volga it/1.0/Air Car Ultima_Data/level8.resS" }}
+,{ "pid":12345, "tid":8, "ts":1654018178356445, "dur":64, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ /volga it/1.0/Air Car Ultima_Data/level7" }}
+,{ "pid":12345, "tid":8, "ts":1654018178356513, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1654018178356523, "dur":5671, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ /volga it/1.0/Air Car Ultima_Data/level7" }}
+,{ "pid":12345, "tid":8, "ts":1654018178362278, "dur":76, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ /volga it/1.0/Air Car Ultima_Data/level4" }}
+,{ "pid":12345, "tid":8, "ts":1654018178362359, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1654018178362367, "dur":2018, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ /volga it/1.0/Air Car Ultima_Data/level4" }}
+,{ "pid":12345, "tid":8, "ts":1654018178364479, "dur":63, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ /volga it/1.0/Air Car Ultima_Data/level2.resS" }}
+,{ "pid":12345, "tid":8, "ts":1654018178364546, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1654018178364557, "dur":1634, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ /volga it/1.0/Air Car Ultima_Data/level2.resS" }}
+,{ "pid":12345, "tid":8, "ts":1654018178366272, "dur":67, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ /volga it/1.0/Air Car Ultima_Data/level0" }}
+,{ "pid":12345, "tid":8, "ts":1654018178366344, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1654018178366352, "dur":3655, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ /volga it/1.0/Air Car Ultima_Data/level0" }}
+,{ "pid":12345, "tid":8, "ts":1654018178370485, "dur":226, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ /volga it/1.0/Air Car Ultima_Data/boot.config" }}
+,{ "pid":12345, "tid":8, "ts":1654018178370715, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1654018178370744, "dur":1404, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ /volga it/1.0/Air Car Ultima_Data/boot.config" }}
+,{ "pid":12345, "tid":8, "ts":1654018178372258, "dur":30534, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1654018178412735, "dur":2989, "ph":"X", "name": "ProfilerWriteOutput" }
+,{ "pid": 0, "tid": 1, "ts": 1654018178451468, "dur": 889, "ph": "X", "name": "backend_profiler1.traceevents", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1654018178450745, "dur": 1638, "ph": "X", "name": "Write chrome-trace events", "args": {} },

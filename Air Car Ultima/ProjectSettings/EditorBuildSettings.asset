@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/0. Main Menu.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Scenes/1. Controls.unity
+    guid: 61f9983895512774ba72b949a6ecad3b
+  - enabled: 1
+    path: Assets/Scenes/2. About Game.unity
+    guid: a7a2457a389956b419f1d07f34d358af
+  - enabled: 1
+    path: Assets/Scenes/3. Authors.unity
+    guid: a345bcfeb634cd04e824fbe9a57c1eab
+  - enabled: 1
+    path: Assets/Scenes/4. Game Settings.unity
+    guid: 5a2c98bb72751a04e823d6cd81b55009
+  - enabled: 1
+    path: Assets/Scenes/5. Easy Difficulty.unity
+    guid: c1a326de168ed6d4b98029d7faa02196
+  - enabled: 1
+    path: Assets/Scenes/6. Medium Difficulty.unity
+    guid: 0a2b63a34716d754c8991452a2c6b309
+  - enabled: 1
+    path: Assets/Scenes/7. Hard Difficulty.unity
+    guid: 5b92d47a62bd080438dc38843b98ebaa
+  - enabled: 1
+    path: Assets/Scenes/8. Restart Menu.unity
+    guid: 330a0af00ab09a048a894e1fd7b0c88d
+  m_configObjects: {}
